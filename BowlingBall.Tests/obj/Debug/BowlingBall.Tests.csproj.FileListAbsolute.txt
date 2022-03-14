@@ -1,0 +1,16 @@
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.AssemblyReference.cache
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CoreCompileInputs.cache
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.Tests.pdb
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\BowlingBall.pdb
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.csproj.CopyComplete
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall.Tests\obj\Debug\BowlingBall.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.AssemblyReference.cache
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Suraj Folder\Proj\TB\Backup\bowling-ball\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
